@@ -1,0 +1,10 @@
+.ButtonList{
+    display: flex;
+    justify-content: space-around;
+}
+
+.ButtonList button {
+    padding: 2em;
+    border: 0 ;
+  }
+  

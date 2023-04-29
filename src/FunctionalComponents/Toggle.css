@@ -1,0 +1,11 @@
+.head{
+    cursor: auto;
+    padding: 50px;
+    font-size: 100px;
+    border: 0;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
